@@ -2,6 +2,6 @@
 
 In Class 1: Mouse Follow
 
-https://user-images.githubusercontent.com/98612534/192068814-bf15f013-ba6b-4fd1-8b7d-2172a6904a24.mov
+[mouseFollow](https://user-images.githubusercontent.com/98612534/192068814-bf15f013-ba6b-4fd1-8b7d-2172a6904a24.mov)
 
 
